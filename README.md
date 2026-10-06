@@ -40,4 +40,7 @@ Network Topology
 
 Project File
 The completed Cisco Packet Tracer project file is available above:
-Home_Network.pkt
+
+[Home_Network.pka.zip](https://github.com/user-attachments/files/33124285/Home_Network.pka.zip)
+
+
