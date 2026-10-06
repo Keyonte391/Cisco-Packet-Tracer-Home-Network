@@ -1,4 +1,4 @@
-# Home_Network
+# Cisco Packet Tracer Home Network
 Project Overview
 
 Designed and configured a home network using Cisco Packet Tracer, including wired and wireless devices, DHCP, IP addressing, wireless security, and connectivity testing.
